@@ -1,0 +1,15 @@
+{
+    "name": "Karsen",
+    "age": 29,
+    "city": "Seattle",
+    "interests": [
+        "Travel",
+        "food",
+        "cars",
+        "sports",
+        "music",
+        "fishin",
+        "golfing"
+    ],
+    "is_student": false
+}
